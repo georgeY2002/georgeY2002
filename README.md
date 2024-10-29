@@ -4,7 +4,7 @@ Welcome to my GitHub – the place where creativity meets code. Here, I bring de
 ---
 
 ### 👨‍💻 About Me
-- **Frontend Developer** | Specializing in building intuitive, performance-driven user interfaces.
+- **Full-Stack Developer** | Specializing in building intuitive, performance-driven user interfaces.
 - **React & Next.js** | I leverage the latest front-end frameworks to create scalable, maintainable solutions.
 - **Tailwind CSS Enthusiast** | Crafting responsive, polished designs with precision.
 
