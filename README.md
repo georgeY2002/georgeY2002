@@ -35,7 +35,7 @@ I’m passionate about clean code, smooth user experiences, and driving innovati
 ### 📈 GitHub Analytics
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=georgeY2002&show_icons=true&theme=react" alt="GitHub stats" height="160px" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=georgeY2002&theme=react" alt="Current Streak" height="160px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yassa12&theme=react" alt="Current Streak" height="160px" />
 </div>
 
 ---
