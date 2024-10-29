@@ -1,5 +1,4 @@
-# 👋 Hi, I’m [Your Name]
-
+# 👋 Hi, I’m George Youssef
 Welcome to my GitHub – the place where creativity meets code. Here, I bring design, efficiency, and seamless user experiences to life with **React**, **Next.js**, and **Tailwind CSS**.
 
 ---
@@ -36,16 +35,14 @@ I’m passionate about clean code, smooth user experiences, and driving innovati
 ### 📈 GitHub Analytics
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=react" alt="GitHub stats" height="160px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=react" alt="Top languages" height="160px" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=react" alt="Current Streak" height="160px" />
 </div>
 
 ---
 
 ### 💬 Let’s Connect
-- **[LinkedIn](https://linkedin.com/in/your-profile)** – For professional insights and networking.
-- **[Twitter](https://twitter.com/your-handle)** – Sharing thoughts on the latest in web dev and design.
-- **[Email](mailto:your.email@example.com)** – Open to collaborations and project ideas.
+- **[LinkedIn](https://www.linkedin.com/in/george-youssef-0a588a30b/)** – For professional insights and networking.
+- **[Email](georgeyoussef2002@gmail.com)** – Open to collaborations and project ideas.
 
 ---
 
