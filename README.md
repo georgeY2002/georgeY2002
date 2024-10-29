@@ -1,68 +1,55 @@
-# 👋 Hey There, I'm [Your Name]! 👨‍💻
+# 👋 Hi, I’m [Your Name]
 
-Welcome to my GitHub profile! This is where I blend **design**, **development**, and a sprinkle of **magic** ✨ to build stunning, responsive front-end experiences. Buckle up, and let’s dive into the world of React, Next.js, and Tailwind CSS together! 🎢
-
-![Hero GIF](https://media.giphy.com/media/26AHG5KGFxSkUWw1i/giphy.gif)
+Welcome to my GitHub – the place where creativity meets code. Here, I bring design, efficiency, and seamless user experiences to life with **React**, **Next.js**, and **Tailwind CSS**.
 
 ---
 
-### 💡 About Me
-- **🔭 Front-End Dev & UI/UX Enthusiast** | Crafting **pixel-perfect** designs that come to life
-- **⚛️ React & Next.js Pro** | Leveraging the latest in JavaScript frameworks
-- **🎨 Tailwind CSS Connoisseur** | Styling with precision and flair
+### 👨‍💻 About Me
+- **Frontend Developer** | Specializing in building intuitive, performance-driven user interfaces.
+- **React & Next.js** | I leverage the latest front-end frameworks to create scalable, maintainable solutions.
+- **Tailwind CSS Enthusiast** | Crafting responsive, polished designs with precision.
 
-When I’m not coding, you can find me geeking out over **design trends**, **optimizing performance**, or just lost in a good UI/UX challenge.
+I’m passionate about clean code, smooth user experiences, and driving innovation in web development.
 
 ---
 
-### 🚀 My Tech Stack:
+### 🛠 Tech Stack
 <div align="center">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </div>
 
-> **Code + Design = 💙 Front-End Magic**
+---
+
+### 🔍 Current Focus
+- **Next.js Portfolio and Blog**: Crafting a sleek, SEO-optimized portfolio/blog with Next.js and Tailwind CSS for performance and scalability.
+- **Frontend Architecture**: Embracing component-driven development with reusable, maintainable UI components.
+- **Design Systems & UI/UX**: Building with user-centric design principles for intuitive, accessible applications.
+
+> Always pushing the boundaries of front-end development with emerging tools and methodologies.
 
 ---
 
-### 🛠️ Current Projects:
-1. **Next.js Blog & Portfolio Site** 🌐 – A blazing-fast, SEO-friendly, and visually striking personal blog and portfolio built with Next.js and Tailwind.
-2. **React E-commerce Platform** 🛒 – Building a sleek, responsive, and fully functional e-commerce app with Tailwind for the perfect user experience.
-3. **Open Source Love** ❤️ – Exploring opportunities to contribute to open-source front-end libraries and projects. Let’s collaborate!
-
----
-
-### 🎉 Fun Facts
-- **🎨 CSS Guru** – I can turn a bland UI into something memorable with just a touch of Tailwind magic.
-- **💭 Always Experimenting** – Be it animations, dark mode, or responsive layouts, I'm constantly pushing the limits of what's possible in the browser.
-- **📦 Design-to-Code Workflow** – Figma, Tailwind, React components? Yep, I've got a smooth workflow.
-
----
-
-### 📊 GitHub Stats
+### 📈 GitHub Analytics
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub stats" height="150px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="Top languages" height="150px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=react" alt="GitHub stats" height="160px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=react" alt="Top languages" height="160px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=react" alt="Current Streak" height="160px" />
 </div>
 
 ---
 
-### 🌍 Connect with Me
-- **[Twitter](https://twitter.com/yourhandle)** – Catch my latest thoughts on front-end and design.
-- **[LinkedIn](https://linkedin.com/in/your-profile)** – Let’s connect professionally!
-- **[Email](mailto:your.email@example.com)** – Hit me up for project ideas, collaborations, or just to say hi!
+### 💬 Let’s Connect
+- **[LinkedIn](https://linkedin.com/in/your-profile)** – For professional insights and networking.
+- **[Twitter](https://twitter.com/your-handle)** – Sharing thoughts on the latest in web dev and design.
+- **[Email](mailto:your.email@example.com)** – Open to collaborations and project ideas.
 
 ---
 
-### 🌠 What Inspires Me:
-> "Great design is transparent, but unforgettable." — _Anonymous_
+### ✨ Philosophy
+> "Code is like humor. When you have to explain it, it’s bad." – _Cory House_
 
----
-
-**Thanks for stopping by!** Feel free to explore my repos, fork, or star ⭐️ – let's build something amazing together! 
-
-<div align="center">
-  <img src="https://media.giphy.com/media/l2QDLox29FBVfbpVu/giphy.gif" width="200"/>
-</div>
+Thanks for stopping by! Check out my projects below and let’s build something innovative together. 
